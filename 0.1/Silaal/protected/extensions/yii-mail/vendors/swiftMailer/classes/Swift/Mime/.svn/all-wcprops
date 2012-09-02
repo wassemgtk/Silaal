@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime
+END
+EmbeddedFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/EmbeddedFile.php
+END
+SimpleHeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/SimpleHeaderFactory.php
+END
+EncodingObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/EncodingObserver.php
+END
+SimpleMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/SimpleMessage.php
+END
+SimpleMimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/SimpleMimeEntity.php
+END
+CharsetObserver.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/CharsetObserver.php
+END
+HeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/HeaderSet.php
+END
+ParameterizedHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/ParameterizedHeader.php
+END
+ContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/ContentEncoder.php
+END
+SimpleHeaderSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/SimpleHeaderSet.php
+END
+MimePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/MimePart.php
+END
+HeaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/HeaderFactory.php
+END
+MimeEntity.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/MimeEntity.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/Message.php
+END
+HeaderEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/HeaderEncoder.php
+END
+Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/Header.php
+END
+Attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/classes/Swift/Mime/Attachment.php
+END

@@ -1,0 +1,77 @@
+10
+
+dir
+20
+https://wassem%40gmail.com@silaal.googlecode.com/svn/trunk/0.1/Silaal/framework/gii/generators/module/templates/default
+https://wassem%40gmail.com@silaal.googlecode.com/svn
+
+
+
+2012-05-08T12:52:53.233066Z
+19
+wassem@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eceb2551-dba6-7b53-3672-26fafac2e06b
+
+models
+dir
+
+components
+dir
+
+controllers
+dir
+
+messages
+dir
+
+module.php
+file
+
+
+
+
+2012-02-13T01:37:54.000000Z
+bc12cddc675b1908d484eba5838e4941
+2012-05-08T12:52:53.233066Z
+19
+wassem@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+725
+
+views
+dir
+

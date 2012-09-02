@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/pgsql
+END
+CPgsqlSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/pgsql/CPgsqlSchema.php
+END
+CPgsqlTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/pgsql/CPgsqlTableSchema.php
+END
+CPgsqlColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/pgsql/CPgsqlColumnSchema.php
+END

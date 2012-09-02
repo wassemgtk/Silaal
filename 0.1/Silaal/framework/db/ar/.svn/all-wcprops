@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/ar
+END
+CActiveRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/ar/CActiveRecord.php
+END
+CActiveRecordBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/ar/CActiveRecordBehavior.php
+END
+CActiveFinder.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/ar/CActiveFinder.php
+END

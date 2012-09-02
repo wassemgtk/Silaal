@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer
+END
+mime_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/mime_types.php
+END
+swift_required.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/swift_required.php
+END
+swift_init.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/swift_init.php
+END
+preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/preferences.php
+END
+swift_required_pear.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/swift_required_pear.php
+END

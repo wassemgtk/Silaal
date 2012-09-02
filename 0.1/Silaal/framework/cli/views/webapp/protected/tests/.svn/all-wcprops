@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/views/webapp/protected/tests
+END
+WebTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/views/webapp/protected/tests/WebTestCase.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/views/webapp/protected/tests/bootstrap.php
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/views/webapp/protected/tests/phpunit.xml
+END

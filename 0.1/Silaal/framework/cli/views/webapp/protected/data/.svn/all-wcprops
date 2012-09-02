@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/views/webapp/protected/data
+END
+schema.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/views/webapp/protected/data/schema.mysql.sql
+END
+testdrive.db
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/views/webapp/protected/data/testdrive.db
+END
+schema.sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/views/webapp/protected/data/schema.sqlite.sql
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands/shell
+END
+CrudCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands/shell/CrudCommand.php
+END
+ModelCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands/shell/ModelCommand.php
+END
+ControllerCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands/shell/ControllerCommand.php
+END
+FormCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands/shell/FormCommand.php
+END
+ModuleCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands/shell/ModuleCommand.php
+END
+HelpCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands/shell/HelpCommand.php
+END

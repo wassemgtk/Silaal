@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/components
+END
+CategoriesWidget.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/components/CategoriesWidget.php
+END
+Relation.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/components/Relation.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/components/Controller.php
+END
+ShoppingCartWidget.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/components/ShoppingCartWidget.php
+END
+ProductsWidget.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/components/ProductsWidget.php
+END
+UserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/components/UserIdentity.php
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth
+END
+CAccessControlFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/CAccessControlFilter.php
+END
+CUserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/CUserIdentity.php
+END
+schema-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/schema-mysql.sql
+END
+schema-pgsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/schema-pgsql.sql
+END
+CAuthAssignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/CAuthAssignment.php
+END
+CAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/CAuthManager.php
+END
+CWebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/CWebUser.php
+END
+schema-oci.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/schema-oci.sql
+END
+CAuthItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/CAuthItem.php
+END
+CDbAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/CDbAuthManager.php
+END
+schema-mssql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/schema-mssql.sql
+END
+CBaseUserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/CBaseUserIdentity.php
+END
+CPhpAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/CPhpAuthManager.php
+END
+schema-sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/web/auth/schema-sqlite.sql
+END

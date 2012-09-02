@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/dependency_maps
+END
+cache_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/dependency_maps/cache_deps.php
+END
+mime_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/dependency_maps/mime_deps.php
+END
+transport_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/11/trunk/0.1/Silaal/protected/extensions/yii-mail/vendors/swiftMailer/dependency_maps/transport_deps.php
+END

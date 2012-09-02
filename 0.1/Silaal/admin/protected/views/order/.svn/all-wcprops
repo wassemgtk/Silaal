@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order
+END
+terms.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/terms.php
+END
+invoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/invoice.php
+END
+footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/footer.php
+END
+already_registered.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/already_registered.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/_form.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/create.php
+END
+_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/_search.php
+END
+slip.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/slip.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/index.php
+END
+success.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/success.php
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/view.php
+END
+waypoint.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/waypoint.php
+END
+process.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/process.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/update.php
+END
+failure.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/failure.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/order/admin.php
+END

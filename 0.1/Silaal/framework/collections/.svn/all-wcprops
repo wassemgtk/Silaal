@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections
+END
+CConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CConfiguration.php
+END
+CMapIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CMapIterator.php
+END
+CList.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CList.php
+END
+CMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CMap.php
+END
+CQueueIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CQueueIterator.php
+END
+CAttributeCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CAttributeCollection.php
+END
+CStackIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CStackIterator.php
+END
+CTypedList.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CTypedList.php
+END
+CTypedMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CTypedMap.php
+END
+CQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CQueue.php
+END
+CListIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CListIterator.php
+END
+CStack.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/collections/CStack.php
+END

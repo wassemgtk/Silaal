@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/mssql
+END
+CMssqlTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/mssql/CMssqlTableSchema.php
+END
+CMssqlColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/mssql/CMssqlColumnSchema.php
+END
+CMssqlSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/mssql/CMssqlSchema.php
+END
+CMssqlPdoAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/mssql/CMssqlPdoAdapter.php
+END
+CMssqlCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/mssql/CMssqlCommandBuilder.php
+END

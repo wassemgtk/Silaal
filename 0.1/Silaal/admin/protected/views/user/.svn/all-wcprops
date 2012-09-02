@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/user
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/user/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/user/view.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/user/_form.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/user/update.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/user/create.php
+END
+_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/user/_search.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/user/index.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/views/user/admin.php
+END

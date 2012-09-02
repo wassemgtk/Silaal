@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands
+END
+WebAppCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands/WebAppCommand.php
+END
+MessageCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands/MessageCommand.php
+END
+ShellCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands/ShellCommand.php
+END
+MigrateCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/cli/commands/MigrateCommand.php
+END

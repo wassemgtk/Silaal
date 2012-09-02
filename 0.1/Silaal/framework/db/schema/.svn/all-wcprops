@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema
+END
+CDbSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/CDbSchema.php
+END
+CDbCriteria.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/CDbCriteria.php
+END
+CDbCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/CDbCommandBuilder.php
+END
+CDbTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/CDbTableSchema.php
+END
+CDbColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/CDbColumnSchema.php
+END
+CDbExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/19/trunk/0.1/Silaal/framework/db/schema/CDbExpression.php
+END

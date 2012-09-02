@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/tests
+END
+WebTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/tests/WebTestCase.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/tests/bootstrap.php
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/0.1/Silaal/admin/protected/tests/phpunit.xml
+END
