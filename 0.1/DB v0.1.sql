@@ -100,9 +100,9 @@ CREATE TABLE IF NOT EXISTS `yc_administrator` (
 --
 
 INSERT INTO `yc_administrator` (`id`, `username`, `password`, `firstname`, `lastname`, `email`, `address_id`, `status`, `date_added`) VALUES
-(1, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'ramkrishna', 'chaulagain', 'rkcbabu@gmail.com', 1, 1, '2012-03-04 12:44:22'),
-(2, 'rkcbabu', '1b1f573238eb628a5a0ccce6c733ac4d', 'Ramkrishna', 'Chaulagain', 'rkcbabu@gmail.com', 1, 1, '0000-00-00 00:00:00'),
-(3, 'administrator', '200ceb26807d6bf99fd6f4f0d1ca54d4', 'Ramkrishna', 'Chaulagain', 'administrator@gmail.com', 0, 1, '2012-03-30 15:42:16');
+(1, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'admin', 'admin', 'admin@gmail.com', 1, 1, '2012-03-04 12:44:22'),
+(2, 'admin1', '1b1f573238eb628a5a0ccce6c733ac4d', 'admin', 'admin', 'admin1@gmail.com', 1, 1, '0000-00-00 00:00:00'),
+(3, 'administrator', '200ceb26807d6bf99fd6f4f0d1ca54d4', 'admin', 'admin', 'administrator@gmail.com', 0, 1, '2012-03-30 15:42:16');
 
 -- --------------------------------------------------------
 
@@ -708,9 +708,9 @@ INSERT INTO `yc_paypal_config` (`ID`, `NAME`, `VALUE`) VALUES
 (6, 'MIN_AMOUNT', '5'),
 (7, 'BUSINESS_EMAIL', 'Sell1_1327991285_biz@gmail.com'),
 (8, 'CURRENCY_CODE', 'USD'),
-(9, 'SUCCESS_RETURN', 'http://www.fun2work.org/lab/autods/index.php/payments/default/paypalipn'),
-(10, 'CANCEL_RETURN', 'http://www.fun2work.org/lab/autods/index.php/payments/default/paypalipn'),
-(11, 'NOTIFY_URL', 'http://www.fun2work.org/lab/autods/index.php/payments/default/paypalipn'),
+(9, 'SUCCESS_RETURN', 'http://www.silaal.com/lab/autods/index.php/payments/default/paypalipn'),
+(10, 'CANCEL_RETURN', 'http://www.silaal.com/lab/autods/index.php/payments/default/paypalipn'),
+(11, 'NOTIFY_URL', 'http://www.silaal.com/lab/autods/index.php/payments/default/paypalipn'),
 (12, 'ITEM_NAME', 'LOAD ACCOUNT'),
 (13, 'PACKAGES_1', '15'),
 (14, 'PACKAGES_2', '35'),
