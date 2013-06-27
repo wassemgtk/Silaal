@@ -156,23 +156,10 @@ CREATE TABLE IF NOT EXISTS `yc_category_description` (
 INSERT INTO `yc_category_description` (`id`, `category_id`, `language_id`, `title`, `description`) VALUES
 (1, 1, 5, 'Desktops', 'This is all kind of desktop computers.'),
 (2, 1, 7, 'Desktops', 'This is all kind of desktop computers.'),
-(3, 1, 8, 'कम्प्युटर', 'कम्प्युटर'),
 (4, 2, 5, 'Components', 'All kinds of components.'),
 (5, 15, 5, 'Accessories', 'These are accessories things'),
-(6, 15, 8, 'यसोसरिज', 'यिनिहरु यसोसरिज हुन'),
-(7, 2, 8, 'कम्पोनेन्ट', 'कम्पोनेन्ट'),
-(8, 3, 5, 'personal computer', 'personal computer'),
-(9, 3, 8, 'पर्सनल कम्प्युटर', 'पर्सनल कम्प्युटर'),
-(10, 5, 5, 'Mac', 'Mac'),
-(11, 5, 8, 'म्याक ', 'म्याक '),
-(12, 6, 5, 'Moniters', 'All kinds of moniters'),
-(13, 6, 8, 'मोनिटर', 'मोनिटर'),
-(14, 10, 5, 'softwares', 'softwares description'),
-(15, 10, 8, 'सफ्टवेर', 'सफ्टवेर ब्याख्या'),
-(16, 11, 5, 'Tablets', 'Tablets Description'),
-(17, 11, 8, 'ट्याबलेट', 'ट्याबलेट ब्याख्या'),
-(18, 12, 5, 'Camera', 'Camera desc'),
-(19, 12, 8, 'क्यामेरा', 'क्यामेरा');
+
+
 
 -- --------------------------------------------------------
 
@@ -482,20 +469,7 @@ CREATE TABLE IF NOT EXISTS `yc_customer` (
 --
 
 INSERT INTO `yc_customer` (`customer_id`, `user_id`, `address_id`, `delivery_address_id`, `billing_address_id`, `email`) VALUES
-(1, 2, 2, 3, 4, 'sudi@yahoo.com'),
-(2, 2, 2, 5, 6, 'abc@yahoo.com'),
-(3, 1, 1, 10, 11, 'rkcbabu@gmail.com'),
-(4, 1, 1, 12, 13, 'rkcbabu@gmail.com'),
-(5, 1, 1, 14, 15, 'rkcbabu@gmail.com'),
-(6, 1, 1, 16, 17, 'rkcbabu@gmail.com'),
-(7, 1, 1, 18, 19, 'rkcbabu@gmail.com'),
-(8, 1, 1, 20, 21, 'rkcbabu@gmail.com'),
-(9, 1, 1, 22, 23, 'rkcbabu@gmail.com'),
-(10, 1, 1, 24, 25, 'rkcbabu@gmail.com'),
-(11, 1, 1, 26, 27, 'rkcbabu@gmail.com'),
-(12, 1, 1, 28, 29, 'rkcbabu@gmail.com'),
-(13, NULL, 0, 30, 31, ''),
-(14, NULL, 0, 32, 33, '');
+(1, 2, 2, 3, 4, 'test@test.com');
 
 -- --------------------------------------------------------
 
@@ -803,23 +777,8 @@ INSERT INTO `yc_product_description` (`id`, `product_id`, `language_id`, `title`
 (9, 4, 5, 'adsf', 'adsf'),
 (10, 4, 6, 'adsf', 'adsf'),
 (11, 4, 7, 'asdf', 'asdf'),
-(16, 5, 5, 'asdf', 'asdf'),
-(17, 5, 6, 'asdf', 'asdf'),
-(18, 5, 7, 'asdf', 'asdf'),
-(19, 5, 8, ' नेपालि सामानहरु', ' नेपालि सामानहरुको जानकारी'),
-(20, 6, 5, 'asdf', 'asdf'),
-(21, 7, 5, 'Moniter english', 'Moniter english'),
-(22, 8, 5, 'new product eng.', 'new product eng.'),
-(23, 9, 5, 'asdf', 'asdf'),
-(24, 9, 6, 'asdf', 'asdf'),
-(25, 9, 7, '??? ??? ?????????', '??? ??? ?????????'),
-(26, 4, 8, ' नेपालि सामानहरु', ' नेपालि सामानहरुको जानकारी'),
-(27, 6, 8, ' नेपालि सामानहरु ३', ' नेपालि सामानहरुको जानकारी ३'),
-(28, 7, 8, ' नेपालि सामानहरु ४', ' नेपालि सामानहरुको जानकारी ४'),
-(29, 8, 8, ' नेपालि सामानहरु ५', ' नेपालि सामानहरुको जानकारी ५'),
-(30, 9, 8, ' नेपालि सामानहरु ६', ' नेपालि सामानहरुको जानकारी ६'),
-(31, 11, 5, 'asdfsdf', 'asdfsdfsdf'),
-(32, 11, 8, ' नेपालि सामानहरु ७', ' नेपालि सामानहरुको जानकारी ७');
+(16, 5, 5, 'asdf', 'asdf');
+
 
 -- --------------------------------------------------------
 
@@ -914,11 +873,11 @@ INSERT INTO `yc_site_config` (`id`, `name`, `value`) VALUES
 (1, 'frontend_name', 'Your Store'),
 (2, 'CATEGORY_DEPTH', '3'),
 (3, 'CART_PRODUCT_COUNT', '100'),
-(4, 'Facebook', 'http://www.facebook.com/linkplusoffshore'),
-(5, 'Youtube', 'http://www.youtube.com/linkplusoffshore'),
-(6, 'Twitter', 'http://www.twitter.com/linkplusoffshore'),
-(7, 'RSS', 'http://www.linkplusoffshore.com/rss'),
-(8, 'Copy', 'http://www.linkplusoffshore.com/');
+(4, 'Facebook', 'http://www.facebook.com/'),
+(5, 'Youtube', 'http://www.youtube.com/'),
+(6, 'Twitter', 'http://www.twitter.com/'),
+(7, 'RSS', 'http://www.waseemsite.com'),
+(8, 'Copy', 'http://www.waseemsite.com/');
 
 -- --------------------------------------------------------
 
@@ -988,8 +947,8 @@ CREATE TABLE IF NOT EXISTS `yc_user` (
 --
 
 INSERT INTO `yc_user` (`id`, `username`, `password`, `firstname`, `lastname`, `email`, `address_id`, `ip`, `status`, `date_added`) VALUES
-(1, 'user', 'ee11cbb19052e40b07aac0ca060c23ee', 'Ramkrishna', 'Chaulagain', 'rkcbabu@gmail.com', 1, '127.0.0.1', 1, '2012-04-23 07:30:05'),
-(2, 'sudi', 'e10adc3949ba59abbe56e057f20f883e', 'sudi', 'gautam', 'sudi12@yahoo.com', 2, '192.168.50.151', 1, '2012-04-23 08:18:11'),
+(1, 'user', 'ee11cbb19052e40b07aac0ca060c23ee', 'test', 'Chaulagain', 'test@gmail.com', 1, '127.0.0.1', 1, '2012-04-23 07:30:05'),
+(2, 'sudi', 'e10adc3949ba59abbe56e057f20f883e', 'test', 'gautam', 'test@yahoo.com', 2, '192.168.50.151', 1, '2012-04-23 08:18:11'),
 (3, 'sudichhyagautam', 'e10adc3949ba59abbe56e057f20f883e', 'sfdg', 'fgsf', 's@yahoo.com', 7, '192.168.50.151', 1, '2012-04-23 08:28:02');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
